@@ -1,0 +1,15 @@
+--- 
+author: Gökhan Demir
+description: Folyolar
+email: gdemir@bil.omu.edu.tr
+url: fo.gdemir.me
+domain: gdemir.me
+intro: ''
+googleanalytics: 'UA-21168139-1'
+googleplus: '101535368400958376887'
+brand: default
+landslide: /usr/bin/landslide
+css: _/default.css
+js: _/default.js
+indextemplate: _/index.erb
+foliotemplate: _/default.erb
